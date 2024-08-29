@@ -140,9 +140,9 @@ function Footer() {
 							rel="noreferrer noopener"
 							fontWeight="medium"
 						>
-							@Antonio Ayola
+							@EJulianaRuiz
 						</Link>{' '}
-						con 💛 &#x1F1F2;&#x1F1FD;
+						con 💛 COL
 						{/* Built by Erika Juliana Ruizand contributors */}
 					</Typography>
 				</Stack>
